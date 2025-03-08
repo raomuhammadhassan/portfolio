@@ -163,8 +163,8 @@ export function Hero() {
          href="#project" 
          className="flex flex-col items-center text-gray-500 dark:text-gray-400 hover:text-purple-600 dark:hover:text-purple-400"
        >
-         <span className="text-sm font-medium mb-2">Scroll Down</span>
-         <ChevronDown className="w-6 h-6" />
+         {/* <span className="text-sm font-medium mb-2">Scroll Down</span>
+         <ChevronDown className="w-6 h-6" /> */}
        </a>
      </div>
    </section>
