@@ -1,5 +1,5 @@
 import React from 'react';
-import { Award, Star, Trophy, Medal } from 'lucide-react';
+import { Award, Star, Trophy, Medal, BadgeCheck } from 'lucide-react';
 
 const achievements = [
   {
@@ -8,23 +8,59 @@ const achievements = [
     organization: "Tech Innovation Awards 2023",
     description: "Recognized for developing an innovative healthcare management system."
   },
+  // {
+  //   icon: <Award />,
+  //   title: "Outstanding Developer",
+  //   organization: "Developer Excellence Awards",
+  //   description: "Awarded for contributions to open-source projects and community development."
+  // },
+  // {
+  //   icon: <Star />,
+  //   title: "Top Contributor",
+  //   organization: "GitHub",
+  //   description: "Ranked among top 1% contributors in the React.js community."
+  // },
+  // {
+  //   icon: <Medal />,
+  //   title: "Innovation Excellence",
+  //   organization: "Digital Summit 2022",
+  //   description: "First place in the annual hackathon for innovative solutions."
+  // },
   {
     icon: <Award />,
-    title: "Outstanding Developer",
-    organization: "Developer Excellence Awards",
-    description: "Awarded for contributions to open-source projects and community development."
+    title: "Certificate of AI",
+    organization: "Higher Education Commission (HEC)",
+    description: "Recognized for expertise in Artificial Intelligence."
   },
   {
-    icon: <Star />,
-    title: "Top Contributor",
-    organization: "GitHub",
-    description: "Ranked among top 1% contributors in the React.js community."
+    icon: <BadgeCheck />,
+    title: "2nd Position in Web Development",
+    organization: "UET ACM 3.0",
+    description: "Achieved 2nd place in a competitive web development contest."
+  },
+  {
+    icon: <BadgeCheck />,
+    title: "Python and Data Visualization",
+    organization: "DevTown",
+    description: "Completed a certified course on Python and data visualization."
   },
   {
     icon: <Medal />,
-    title: "Innovation Excellence",
-    organization: "Digital Summit 2022",
-    description: "First place in the annual hackathon for innovative solutions."
+    title: "Participation in Softech",
+    organization: "Softech",
+    description: "Recognized for participation in the Softech event."
+  },
+  {
+    icon: <BadgeCheck />,
+    title: "Certificate of Excellence",
+    organization: "ICS Part II",
+    description: "Awarded for outstanding performance in ICS Part II."
+  },
+  {
+    icon: <Award />,
+    title: "Certificate of Excellence",
+    organization: "ICS Part I",
+    description: "Awarded for outstanding performance in ICS Part I."
   }
 ];
 

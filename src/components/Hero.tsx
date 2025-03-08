@@ -160,7 +160,7 @@ export function Hero() {
      
      <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 animate-bounce">
        <a 
-         href="#about" 
+         href="#project" 
          className="flex flex-col items-center text-gray-500 dark:text-gray-400 hover:text-purple-600 dark:hover:text-purple-400"
        >
          <span className="text-sm font-medium mb-2">Scroll Down</span>

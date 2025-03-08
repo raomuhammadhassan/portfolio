@@ -9,43 +9,43 @@ const projects: Project[] = [
     title: "SoftSpectra Tech",
     description: "A powerful and scalable web solution built using Laravel, Bootstrap, and MySQL, enhanced with various plugins to optimize functionality. Designed for performance, security, and seamless user experience.",
     image: "https://softspectratech.com/storage/soft-spectra-tech-5.png",
-    technologies: ["Laravel", "Bootstrap", "Mysql", "Plugins"],
+    technologies: ["Laravel", "Bootstrap", "Swiper", "Slick", "MySql", "JQuery"],
     // githubUrl: "https://github.com",
     liveUrl: "https://softspectratech.com/"
   },
   {
     id: 2,
     title: "Xtreme Path Finder",
-    description: "Smart task management application using AI to prioritize and categorize tasks. Built with React and OpenAI's GPT-3 API.",
+    description: "A robust and scalable web solution developed with  Bootstrap, and MySQL, integrated with  plugins to enhance functionality. Engineered for high performance, security, and a seamless user experience.",
     image: "https://travelbookingengine.co.uk/uploads/global/logo.png",
-    technologies: ["Html/CSS", "PHP", "BootStrap", "Jquery", "MySql", "APIs"],
+    technologies: ["Html/CSS", "PHP", "BootStrap", "Jquery", "MySql", "Swiper"],
     // githubUrl: "https://github.com",
-    liveUrl: "https://travelbookingengine.co.uk/	"
+    liveUrl: "https://travelbookingengine.co.uk/"
   },
   {
     id: 3,
     title: "Portfolio",
-    description: "Interactive dashboard for real-time data visualization using WebSocket technology and D3.js.",
+    description: "Aqib Chaudhary is a multifaceted professional from Pakistan with expertise in Cyber Ethical Hacking, Mobile Development, Flutter Development, Web Design, and online earning strategies",
     image: AqibImage,
-    technologies: ["Laravel", "Botstrap", "MuSql", "JQuery", "APIs"],
+    technologies: ["Laravel", "Botstrap", "MySql", "JQuery", "APIs","AOS"],
     // githubUrl: "https://github.com",
     liveUrl: "https://aqibchaudhary.com"
   },
   {
     id: 4,
     title: "Hub Pacific Limited",
-    description: "Interactive dashboard for real-time data visualization using WebSocket technology and D3.js.",
+    description: "Hub Pacific Limited is a Hong Kong-based general trading company focused on supplying electronic components and related products with reliability, and customer satisfaction by ensuring timely delivery.",
     image: "https://hubpacific.com/storage/210/67b386125b4a8_logo-transparent.png",
-    technologies: ["Laravel", "Botstrap", "MuSql", "JQuery", "APIs"],
+    technologies: ["Laravel", "Botstrap", "MySql", "JQuery", "APIs"],
     // githubUrl: "https://github.com",
     liveUrl: "https://hubpacific.com"
   },
   {
     id: 5,
     title: "PIAST",
-    description: "Interactive dashboard for real-time data visualization using WebSocket technology and D3.js.",
+    description: "The Pakistan Institute of Arts Sciences and Technologies emphasizes academic excellence, a commitment to service, mutual respect, and the development of disciplined citizens",
     image: "https://stagging.piast.edu.pk/storage/logo/piast-logo-png-copy-1.png",
-    technologies: ["Laravel", "Botstrap", "MuSql", "JQuery", "APIs"],
+    technologies: ["Laravel", "Botstrap", "MySql", "JQuery", "APIs"],
     // githubUrl: "https://github.com",
     liveUrl: "https://stagging.piast.edu.pk"
   }

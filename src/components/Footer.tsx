@@ -50,7 +50,7 @@ export function Footer() {
                 'Web Development',
                 'Mobile Development',
                 'UI/UX Design',
-                'Cloud Solutions',
+                'SEO & Digital Media',
                 'Consulting'
               ].map((service) => (
                 <li key={service}>
