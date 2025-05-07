@@ -28,6 +28,23 @@ function App() {
       <Achievements />
       {/* <Clients /> */}
       <Testimonials />
+      <section id="linkedin-follow" style="text-align: center; margin-top: 40px;">
+  <h2>Connect with Me</h2>
+  <a href="https://www.linkedin.com/in/rao-m-hassan/" target="_blank" rel="noopener noreferrer" style="
+    display: inline-block;
+    background-color: #0a66c2;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;">
+    Follow me on LinkedIn
+  </a>
+</section>
+
       <FAQ />
       <Contact />
       <Footer />
